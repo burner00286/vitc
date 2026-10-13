@@ -1,0 +1,1 @@
+Simple website with only the frontend which uses basic ts to just show the poster and a button for the event hub 
